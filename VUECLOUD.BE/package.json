@@ -1,0 +1,11 @@
+{
+  "name": "vue-cloud",
+  "version": "1.0.0",
+  "description": "A serverless application generating AWS Lambda functions for a weather app built with Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamza",
+  "license": "ISC"
+}
